@@ -1,0 +1,47 @@
+{
+    "about": [
+        {
+            "tech": ["HTML5 & CSS3", "Tailwind CSS", "Bootstrap", "JavaScript", "React JS", "Next JS", "Vue", "Figma"]
+        }
+    ],
+    "experience": [
+        {
+            "id": 1,
+            "company": "Github",
+            "linkCompany": "https://github.com/nawaf-vp",
+            "position": "Web developer",
+            "startDate": "10-15-2023",
+            "endDate": "Present",
+            "tech": ["mongoDB", "Express JS", "React JS", "Node JS"],
+            "jobDesc": ["Acquired proficiency in building full-stack websites using MongoDB, Express JS, React JS and Node JS through technical classes", "Developed RESTful API with CRUD functionality using Express JS and MongoDB, following the principles of N-Layered structure.", "Developed website interfaces using React.js, following principles of atomic design.", "Completed self-learning placed course from freecodecamp (HTML& CSS, ES6, React JS, Node JS, Git)."]
+        }
+      
+    ],
+    "project": [
+        {
+            "title": "let them cook",
+            "imgUrl": "./img/project/let_them_cook.png",
+            "tech": ["React JS", "Tailwind CSS" ,"mongoDB", "express","node js "],
+            "description": "CRUD application to share, save, create recipe, ",
+            "linkGithub": "https://github.com/nawaf-vp/let-them-cook",
+            "linkWebsite": ""
+        },
+        {
+            "title": "free birds",
+            "imgUrl": "./img/project/freebirds.png",
+            "tech": ["React JS", "mongoDB", "express","node js "],
+            "description": " Academic project to provide help for orphans, semi-orphans, and missing children. ",
+            "linkGithub": "https://github.com/nawaf-vp/freeBirds",
+            "linkWebsite": ""
+        },
+        {
+            "title": "youtube ui clone ",
+            "imgUrl": "./img/project/youtube_clone.png",
+            "tech": ["react", "mui","rapid API"],
+            "description": "web application that emulates some key features and functionalities of the popular video-sharing platform, Youtube. ",
+            "linkGithub": "https://github.com/nawaf-vp/youtube-clone",
+            "linkWebsite": ""
+           
+        }
+    ]
+}
